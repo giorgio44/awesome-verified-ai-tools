@@ -4,7 +4,7 @@ A curated, **auto-updated** list of AI tools — top-scored per category, pulled
 
 Full catalog, live search, and a real IO-Compatibility Graph (4M+ computed tool-to-tool connections) at **[gateonai.com](https://www.gateonai.com)**.
 
-_Last updated: 2026-09-09 (auto-generated)_
+_Last updated: 2026-09-09 (auto-generated, weekly)_
 
 ## Table of Contents
 
